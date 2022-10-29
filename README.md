@@ -15,24 +15,28 @@
 <br>
 <a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex007-semantica\html5.html"> Exercicio 007.2</a>
 <br>
-<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex008 negrito e italico do jeito certo\index.html"> Exercicio 008</a>
-<a href=""> </a>
-<a href=""> </a>
-<a href=""> </a>
-<a href=""> </a>
-<a href=""> </a>
-<a href=""> </a>
-<a href=""> </a>
-<a href=""> </a>
-<a href=""> </a>
-<a href=""> </a>
-<a href=""> </a>
-<a href=""> </a>
-<a href=""> </a>
-<a href=""> </a>
-<a href=""> </a>
-<a href=""> </a>
-<a href=""> </a>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex008-negrito-italico\index.html"> Exercicio 008</a>
+<br>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex008b-citacao-de-codigo\index.html"> Exercicio 008b</a>
+<br>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex009-Listas\index.html"> Exercicio 009</a>
+<br>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex010-links\index.html"> Exercicio 010.1</a>
+<br>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
 <a href=""> </a>
 <a href=""> </a>
 <a href=""> </a>
