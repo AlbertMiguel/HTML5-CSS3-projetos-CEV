@@ -2,10 +2,14 @@
  Esse são meus projetos, exercicios e o que eu aprendi com o Curso em Video
 
 <a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex001-titulo\index.html">exercicio 01</a>
+<br>
 <a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex002-quebra-de-linha-entities-simbulos-e-emojis\index.html">exercicio 02 </a>
-<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex003-tag-img\index.html"> </a>
-<a href=""> </a>
-<a href=""> </a>
+<br>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex003-tag-img\index.html">Exercicio 3</a>
+<br>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex004-favicon\index.html">Exercicio 4 </a>
+<br>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex006-hierarquia-de-titulos\index.html"> </a>
 <a href=""> </a>
 <a href=""> </a>
 <a href=""> </a>
