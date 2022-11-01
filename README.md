@@ -1,5 +1,5 @@
 # HTML5-CSS3-projetos-CEV
- Esse são meus projetos, exercicios e o que eu aprendi com o Curso em Video
+ <p>Esse são meus projetos, exercicios que eu aprendi praticando com o Curso em Video HTML e CSS</p>
 <p>Exercicios</p>
 <a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex001-titulo\index.html">exercicio 001</a>
 <br>
@@ -87,7 +87,7 @@
 <br>
 <a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex23-tabela\tabela003.html"> Exercicio 023.3 tabela</a>
 <br>
-<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex23-tabela\tabela004.html"> Exercicio 023.4 tabela</a>
 <br>
 <a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
 <br>
