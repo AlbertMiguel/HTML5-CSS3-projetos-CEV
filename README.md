@@ -81,17 +81,17 @@
 <br>
 <a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex022-background-image\index007.html"> Exercicio 022.7 background-image </a>
 <br>
-<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex23-tabela\tabela001.html"> Exercicio 023.1 tabela</a>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex023-tabela\tabela001.html"> Exercicio 023.1 tabela</a>
 <br>
-<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex23-tabela\tabela002.html"> Exercicio 023.2 tabela</a>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex023-tabela\tabela002.html"> Exercicio 023.2 tabela</a>
 <br>
-<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex23-tabela\tabela003.html"> Exercicio 023.3 tabela</a>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex023-tabela\tabela003.html"> Exercicio 023.3 tabela</a>
 <br>
-<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex23-tabela\tabela004.html"> Exercicio 023.4 tabela</a>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex023-tabela\tabela004.html"> Exercicio 023.4 tabela</a>
 <br>
-<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex23-tabela\tabela005.html"> Exercicio 024.5 tabela </a>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex023-tabela\tabela005.html"> Exercicio 024.5 tabela </a>
 <br>
-<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex23-tabela\tabela006.html"> Exercicio 024.6 tabela</a>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex023-tabela\tabela006.html"> Exercicio 024.6 tabela</a>
 <br>
 <a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
 <br>
