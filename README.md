@@ -117,6 +117,18 @@
 <br>
 <a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex025-formulario\form007.html"> Exercicio 025.7 formulario </a>
 <br>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex025-formulario\form008.html"> Exercicio 025.8 formulario</a>
+<br>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex025-formulario\form009.html">Exercicio 025.9 formulario </a>
+<br>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex025-formulario\form010.html"> Exercicio 025.9 formulario </a>
+<br>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
+<br>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
+<br>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
+<br>
 <a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
 <br>
 <a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
