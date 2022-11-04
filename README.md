@@ -131,7 +131,7 @@
 <br>
 <a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\Estudos\html-css\exercios\ex026-mediaQueries\mq004\index.html"> Exercicio 026.4 Media query </a>
 <br>
-<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
+<a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\">  </a>
 <br>
 <a href="https://albertmiguel.github.io/HTML5-CSS3-projetos-CEV/\"> </a>
 <br>
